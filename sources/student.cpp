@@ -1,4 +1,4 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2021 kosirev <qw01w@yandex.ru>
 
 #include <student.hpp>
 #include <iomanip>
